@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NotStats</string>
+    <string name="twitch_stats">Статистика Twitch</string>
+    <string name="youtube_stats">Статистика YouTube</string>
+    <string name="subscribers">Подписчики</string>
+    <string name="followers">Фолловеры</string>
+    <string name="viewers">Зрители</string>
+    <string name="uptime">Время стрима</string>
+    <string name="category">Категория</string>
+    <string name="account_age">Возраст аккаунта</string>
+    <string name="title">Название</string>
+    <string name="total_videos">Всего видео</string>
+    <string name="total_views">Всего просмотров</string>
+    <string name="latest_video">Последнее видео</string>
+    <string name="settings">Настройки</string>
+    <string name="data_connections">Подключения данных</string>
+    <string name="api_keys">API ключи</string>
+    <string name="save">Сохранить всё</string>
+    <string name="youtube_api_hint">Узнайте, как создать API-ключ YouTube</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="setup_description">Настройте подключения, чтобы начать отслеживать статистику.</string>
+    <string name="status">Статус</string>
+    <string name="no_channel">Канал не подключен</string>
+    <string name="loading">Загрузка...</string>
+    <string name="language">Язык</string>
+    <string name="theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme_system">Системная</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ru">Русский</string>
+    <string name="app_settings">Настройки приложения</string>
+</resources>
